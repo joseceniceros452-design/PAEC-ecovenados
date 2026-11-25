@@ -1,0 +1,1093 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Reciclaje en la escuela</title>
+    <meta charset="UTF-8">
+    <link rel="Stylesheet" href="estilos.css" type="text/css">
+</head>
+<body>
+    
+    <div class="contenedor">
+        <div class="menu">
+            <h3>Índice</h3>
+            <ul>
+                <li><a href="index.html">Principal</a></li>
+                <br>
+                <li><a href="reciclaje.html">¿Qué es el reciclaje?</a></li>
+                <br>
+                <li><a href="tipos_residuos.html">Tipos de residuos</a></li>
+                <br>
+                <li><a href="3r.html">Las 3R</a></li>
+                <br>
+                <li><a href="problema_ambiental.html">Problema ambiental</a></li>
+                <br>
+                <li><a href="reciclaje_escuela.html">El reciclaje en nuestra escuela</a></li>
+                <br>
+                <li><a href="reciclaje_comunidad.html">El reciclaje en nuestra comunidad</a></li>
+                <br>
+                <li><a href="formulario.php">Compromiso</a></li>
+            </ul>
+        </div>
+
+        <div class="contenido">
+            <div class="titulo">
+                <h1>El reciclaje en nuestra escuela</h1> 
+            </div>
+
+            <div class="tarjeta-info">
+                <h3>Ir directamente a:</h3>
+                <ul>
+                    <li><a href="#residuos-escuela">¿Qué residuos se generan?</a></li><br>
+                    <li><a href="#acumulacion-basura">¿Dónde se acumula más basura?</a></li><br>
+                    <li><a href="#problemas-escuela">¿Qué problemas existen actualmente?</a></li><br>
+                    <li><a href="#evidencias-paec">Fotografías y evidencias del proyecto PAEC</a></li><br>
+                </ul>
+            </div>
+            
+            <div class="tarjeta-info" id="residuos-escuela">
+                <h3>¿Qué residuos se generan?</h3>
+                <p>En nuestra vida diaria dentro del plantel se generan principalmente:</p>
+                <ul>
+                    <li>Plásticos:
+                        <ul>
+                            <li>Botellas de agua y refresco</li>
+                            <li>Envases de jugos</li>
+                            <li>Bolsas y envolturas de botanas</li>
+                        </ul>
+                    </li>
+                    <li>Papel y cartón:
+                        <ul>
+                            <li>Hojas usadas</li>
+                            <li>Libretas viejas</li>
+                            <li>Empaques de alimentos</li>
+                            <li>Cartón</li>
+                        </ul>
+                    </li>
+                    <li>Residuos orgánicos:
+                        <ul>
+                            <li>Restos de frutas</li>
+                            <li>Cáscaras</li>
+                            <li>Servilletas usadas</li>
+                            <li>Restos de comida</li>
+                        </ul>
+                    </li>
+                    <li>Otros desechos:
+                        <ul>
+                            <li>Latas o empaques metalizados</li>
+                            <li>Residuos de un solo uso (como vasos o popotes)</li>
+                        </ul>
+                    </li>
+                </ul>
+                <p><a href="tipos_residuos.html#clasificacion-composicion">Consulta cómo se clasifican estos residuos según su composición.</a></p>
+            </div>
+
+            <div class="tarjeta-info" id="acumulacion-basura">
+                <h3>¿Dónde se acumula más basura?</h3>
+                <p>
+                    La mayor concentración de residuos suele presentarse en zonas donde se pasa más tiempo o descanso, tales como:
+                </p>
+                <ul>
+                    <li>La zona de cafetería, durante los recesos.</li><br>
+                    <li>Canchas y áreas de descanso al aire libre.</li><br>
+                    <li>Pasillos y salones de clases, especialmente al final de las clases.</li><br>
+                    <li>Alrededor de los botes cuando están llenos o no hay suficiente separación.</li>
+                </ul>
+                <img src="escuela.jpg" alt="Evidencia en la escuela">
+                <img src="escuela1.jpg" alt="Evidencia en la escuela">
+            </div>
+
+            <div class="tarjeta-info" id="problemas-escuela">
+                <h3>¿Qué problemas existen actualmente?</h3>
+                <p>
+                    Entre los principales retos que enfrentamos están que muchos residuos se depositan mezclados en un mismo bote, el uso frecuente de envases desechables, la falta de hábito constante para separar materiales reciclables y el impacto visual o ambiental en las áreas verdes y espacios escolares.
+                </p>
+            </div>
+
+            <div class="tarjeta-info" id="evidencias-paec">
+                <h3>Fotografías y evidencias del proyecto PAEC</h3>
+                <p>
+                    Como parte de nuestra participación en el proyecto PAEC de nuestro plantel, fuimos a distintas escuelas a ayudar limpiando ciertas áreas, a mi compañero y mi nos toco ir a la Secundaria Federal 7, donde estuvimos limpiando el día Jueves 19 de Noviemnbre 2026.
+                </p>
+                <img src="escuela2.jpg" alt="Fotografía del proyecto en la escuela">
+                <img src="escuela3.jpg" alt="Fotografía del proyecto en la escuela">
+                <img src="escuela4.jpg" alt="Fotografía del proyecto en la escuela">
+                <img src="escuela5.jpg" alt="Fotografía del proyecto en la escuela">
+                <img src="escuela6.jpg" alt="Fotografía del proyecto en la escuela">
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Reciclaje en la comunidad</title>
+    <meta charset="UTF-8">
+    <link rel="Stylesheet" href="estilos.css" type="text/css">
+</head>
+<body>
+    
+    <div class="contenedor">
+        <div class="menu">
+            <h3>Índice</h3>
+            <ul>
+                <li><a href="index.html">Principal</a></li>
+                <br>
+                <li><a href="reciclaje.html">¿Qué es el reciclaje?</a></li>
+                <br>
+                <li><a href="tipos_residuos.html">Tipos de residuos</a></li>
+                <br>
+                <li><a href="3r.html">Las 3R</a></li>
+                <br>
+                <li><a href="problema_ambiental.html">Problema ambiental</a></li>
+                <br>
+                <li><a href="reciclaje_escuela.html">El reciclaje en nuestra escuela</a></li>
+                <br>
+                <li><a href="reciclaje_comunidad.html">El reciclaje en nuestra comunidad</a></li>
+                <br>
+                <li><a href="formulario.php">Compromiso</a></li>
+            </ul>
+        </div>
+
+        <div class="contenido">
+            <div class="titulo">
+                <h1>El reciclaje en nuestra comunidad</h1> 
+            </div>
+
+            <div class="tarjeta-info">
+                <h3>Ir directamente a:</h3>
+                <ul>
+                    <li><a href="#residuos-comunidad">¿Qué residuos se generan?</a></li><br>
+                    <li><a href="#acumulacion-comunidad">¿Dónde se acumula más basura?</a></li><br>
+                    <li><a href="#problemas-comunidad">¿Qué problemas existen actualmente?</a></li><br>
+                    <li><a href="#evidencias-comunidad">Fotografías y evidencias del problema que existe en nuestra comunidad</a></li><br>
+                </ul>
+            </div>
+            
+            <div class="tarjeta-info" id="residuos-comunidad">
+                <h3>¿Qué residuos se generan?</h3>
+                <p>
+                    En los hogares, calles y comercios de nuestra comunidad se generan principalmente:
+                </p>
+                <ul>
+                    <li><strong>Residuos orgánicos:</strong> Restos de comida, cáscaras, podas y hojarasca.</li><br>
+                    <li><strong>Plásticos:</strong> Envases PET, bolsas de compras, garrafones o recipientes domésticos.</li><br>
+                    <li><strong>Papel, cartón, vidrio y metal:</strong> Cajas, envases de alimentos, botellas de vidrio, latas y chatarra ligera.</li><br>
+                    <li><strong>Residuos voluminosos o especiales:</strong> Muebles viejos, aparatos electrónicos o llantas en desuso.</li>
+                </ul>
+                <p><a href="tipos_residuos.html#clasificacion-legal">Consulta la clasificación legal de residuos en México.</a></p>
+            </div>
+
+            <div class="tarjeta-info" id="acumulacion-comunidad">
+                <h3>¿Dónde se acumula más basura?</h3>
+                <p>
+                    En nuestra comunidad, la basura suele concentrarse con mayor frecuencia en:
+                </p>
+                <ul>
+                    <li>Terrenos baldíos, esquinas solitarias y lotes sin barda.</li><br>
+                    <li>Parques, plazas públicas y áreas verdes.</li><br>
+                    <li>Canales, arroyos y drenajes</li><br>
+                    <li>Puntos donde se deja basura fuera de horario o sin recolectores disponibles.</li>
+                </ul>
+                <p><a href="problema_ambiental.html#contaminacion-suelo">Ver cómo afecta la acumulación de desechos al suelo.</a></p>
+                <img src="comunidad3.jpg" alt="Evidencia de acumulación de residuos en la comunidad">
+            </div>
+
+            <div class="tarjeta-info" id="problemas-comunidad">
+                <h3>¿Qué problemas existen actualmente?</h3>
+                <p>
+                    Actualmente se observan problemáticas como la disposición inadecuada de residuos en la vía pública, la mezcla de desechos reciclables con basura general, el deterioro de los espacios públicos, posibles afectaciones a la salud y riesgos de obstrucción en desagües o zonas de escurrimiento. <em>[En caso de la colonia de mi comunidad hay mucho descuido en drenajes, causando acumulaciones de agua].</em>
+                </p>
+                <p><a href="problema_ambiental.html#contaminacion-agua">Conoce más sobre los riesgos relacionados con el agua y drenajes.</a></p>
+            </div>
+
+            <div class="tarjeta-info" id="evidencias-comunidad">
+                <h3>Fotografías y evidencias del problema que existe en nuestra comunidad</h3>
+                <img src="comunidad1.jpg" alt="Fotografías de la comunidad">
+                <img src="comunidad2.jpg" alt="Fotografías de la comunidad">
+                <img src="comunidad4.jpg" alt="Fotografías de la comunidad">
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¿Qué es el reciclaje? - PAEC Eco-Venados</title>
+    <link rel="Stylesheet" href="estilos.css" type="text/css">
+</head>
+<body>
+    
+    <div class="contenedor">
+
+        <div class="menu">
+            <h3>Índice</h3>
+            <ul>
+                <li><a href="index.html">Principal</a></li>
+                <br>
+                <li><a href="reciclaje.html">¿Qué es el reciclaje?</a></li>
+                <br>
+                <li><a href="tipos_residuos.html">Tipos de residuos</a></li>
+                <br>
+                <li><a href="3r.html">Las 3R</a></li>
+                <br>
+                <li><a href="problema_ambiental.html">Problema ambiental</a></li>
+                <br>
+                <li><a href="reciclaje_escuela.html">El reciclaje en nuestra escuela</a></li>
+                <br>
+                <li><a href="reciclaje_comunidad.html">El reciclaje en nuestra comunidad</a></li>
+                <br>
+                <li><a href="formulario.php">Compromiso</a></li>
+            </ul>
+        </div>
+
+        <div class="contenido">
+            <div class="titulo">
+                <h1>¿Qué es el reciclaje?</h1>    
+            </div>
+
+            <div class="tarjeta-info">
+                <h3>Ir directamente a:</h3>
+                <ul>
+                    <li><a href="#definicion">Definición</a></li><br>
+                    <li><a href="#importancia">¿Por qué es importante?</a></li><br>
+                    <li><a href="#tipos-reciclaje">Tipos de reciclaje</a></li><br>
+                    <li><a href="#impacto-ambiental">Impacto ambiental y daños a ecosistemas</a></li>
+                </ul>
+            </div>
+            
+            <div class="tarjeta-info" id="definicion">
+                <h3>Definición</h3>  
+                <p>
+                Reciclar es el proceso de recolección, tratamiento y transformación de ciertos materiales que ya fueron utilizados para volver a ser empleados como materia prima en la fabricación de nuevos productos.<br><br>
+                El reciclaje reinserta en la cadena productiva los materiales de descarte de numerosas actividades industriales, empresariales o del consumo cotidiano. Esto permite que sean reutilizados y que disminuya la necesidad de adquirir o elaborar nuevos materiales.<br><br>
+                No todos los materiales existentes son reciclables, pero muchos sí, como el cartón, el vidrio, el aluminio, el papel y los plásticos. Estos pueden ser sometidos a diversos procesos de reaprovechamiento y así recomenzar su ciclo de utilidad.<br><br>
+                Por el contrario, los desechos orgánicos (restos de comida, basura líquida, etc.) no suelen reciclarse por los mismos circuitos que el papel, el vidrio o el plástico, pero pueden compostarse y utilizarse en la producción de abono para la tierra.<br><br>
+                En un contexto de creciente producción y consumo, la acumulación de residuos constituye uno de los principales problemas ambientales de la humanidad.<br><br>
+                Frente a ello, reciclar no solo implica dar un nuevo uso a los materiales desechados, sino también repensar la relación de las sociedades con los recursos naturales, los procesos industriales y los hábitos de consumo.</p>
+                <img src="RECICLAR.webp">
+            </div>
+
+            <div class="tarjeta-info" id="importancia">
+                <h3>¿Por qué es importante?</h3>
+                <p>
+                Es fundamental porque ayuda a disminuir drásticamente la cantidad de basura que va a parar a los vertederos y basureros clandestinos. Además, ahorra energía, reduce las emisiones de gases de efecto invernadero que provocan el cambio climático y preserva los recursos naturales como el agua, los bosques y los minerales.<br><br>
+                Reciclar es una forma de reducir la contaminación de los suelos y mares, ya que la presencia de basura en ellos perjudica sus procesos bióticos y ecológicos.<br><br>
+                Así, a través del tratamiento y la reutilización de materiales como el papel, el vidrio, los plásticos y los metales, se disminuye la demanda de materias primas y se contribuye a la conservación de los ecosistemas.<br><br>
+                Desde una perspectiva económica, el reciclaje es muy eficiente para promover la sostenibilidad de los sistemas productivos y aumentar las ganancias y la productividad.<br><br>
+                La incorporación de materiales reciclados en los procesos industriales permite reducir costos energéticos, generar empleo en sectores vinculados con la gestión ambiental y fomentar el desarrollo de actividades económicas más sustentables.</p>
+                <img src="ECOSISTEMAS.webp">
+            </div>
+
+            <div class="tarjeta-info" id="tipos-reciclaje">
+                <h3>Tipos de reciclaje</h3>
+                <p>Existen diversas formas de reciclaje, según la naturaleza del material en cuestión, tales como:</p>
+                <ul>
+                    <li><strong>Reciclaje de papel. </strong>Grandes cantidades de papel usado pueden ponerse en remojo para obtener pulpa de celulosa, con la cual se fabrica nuevo papel, que puede volver a utilizarse.</li><br>
+                    <li><strong>Reciclaje de metales. </strong>Productos metálicos cotidianos elaborados a partir de aluminio, cobre y otros metales, como el hierro y el acero, pueden fundirse y volver a aprovecharse para elaborar nuevos productos.</li><br>
+                    <li><strong>Reciclaje de envases plásticos. </strong>Las botellas y otros envases plásticos pueden transformarse mediante procesos mecánicos o químicos para obtener materia prima plástica destinada a nuevos productos.</li><br>
+                    <li><strong>Reciclaje de aceites. </strong>El aceite de cocina es un potente contaminante del agua, que puede recogerse y transformarse en biodiésel mediante procesos que incluyen filtrado, tratamiento y reacciones químicas.</li><br>
+                    <li><strong>Compost. </strong>Los desechos orgánicos, como cáscaras de frutas y verduras o sobrantes de comida, pueden convertirse en abono para la tierra, o incluso en insumos para la obtención de biocombustibles.</li>
+                </ul>
+                <img src="RECICLAJE.webp">
+            </div>
+        
+            <div class="tarjeta-info" id="impacto-ambiental">
+                <h3>Impacto ambiental y daños a ecosistemas</h3>
+                <p>Cuando no reciclamos ni manejamos bien nuestros residuos, se generan graves consecuencias en el planeta:</p>
+                <ul>
+                    <li><strong>Contaminación del aire:</strong> La emisión de gases nocivos produce problemas de salud en la población y daña la capa de ozono. <a href="problema_ambiental.html#contaminacion-aire">(Ver más)</a></li><br>
+                    <li><strong>Contaminación del agua:</strong> La introducción de desechos industriales en ríos y océanos genera flora y fauna acuática enferma, así como la afectación de comunidades que dependen de estas fuentes de agua. <a href="problema_ambiental.html#contaminacion-agua">(Ver más)</a></li><br>
+                    <li><strong>Destrucción de hábitats:</strong> La urbanización y el desarrollo agrícola conducen a la pérdida de espacios naturales que son vitales para la biodiversidad. <a href="problema_ambiental.html#contaminacion-suelo">(Ver más)</a></li><br><br>
+                </ul> 
+                <p>Las consecuencias de estos impactos suelen ser graves y a menudo irreversibles, afectando tanto a los ecosistemas como a la salud humana.</p>
+                <img src="FOTO2.webp">
+            </div>
+
+            <footer class="pie-pagina">
+                <h4>Referencias (APA)</h4>
+                <p>Editorial Etecé. (s. f.). <em>Reciclar</em>. Concepto. https://concepto.de/reciclar/</p>
+                <p>Formae Activa. (s. f.). <em>Impacto ambiental: Causas y consecuencias</em>. https://formaeactiva.com/impacto-ambiental-causas-consecuencias/</p>
+            </footer>
+
+        </div>
+    </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Problema ambiental</title>
+    <meta charset="UTF-8">
+    <link rel="Stylesheet" href="estilos.css" type="text/css">
+</head>
+<body>
+    
+    <div class="contenedor">
+        <div class="menu">
+            <h3>Índice</h3>
+            <ul>
+                <li><a href="index.html">Principal</a></li>
+                <br>
+                <li><a href="reciclaje.html">¿Qué es el reciclaje?</a></li>
+                <br>
+                <li><a href="tipos_residuos.html">Tipos de residuos</a></li>
+                <br>
+                <li><a href="3r.html">Las 3R</a></li>
+                <br>
+                <li><a href="problema_ambiental.html">Problema ambiental</a></li>
+                <br>
+                <li><a href="reciclaje_escuela.html">El reciclaje en nuestra escuela</a></li>
+                <br>
+                <li><a href="reciclaje_comunidad.html">El reciclaje en nuestra comunidad</a></li>
+                <br>
+                <li><a href="formulario.php">Compromiso</a></li>
+            </ul>
+        </div>
+
+        <div class="contenido">
+            <div class="titulo">
+                <h1>Problema ambiental por mal manejo de residuos</h1>
+            </div>
+
+            <div class="tarjeta-info">
+                <h3>Ir directamente a:</h3>
+                <ul>
+                    <li><a href="#contaminacion-agua">Contaminación del agua</a></li><br>
+                    <li><a href="#contaminacion-aire">Contaminación del aire</a></li><br>
+                    <li><a href="#contaminacion-suelo">Contaminación del suelo</a></li><br>
+                    <li><a href="#daño-animales-ecosistemas"> Daño a animales y ecosistemas</a></li>
+                </ul>
+            </div>
+
+            <div class="tarjeta-info">
+                <h3>¿Qué sucede cuando tiramos la basura incorrectamente?</h3>
+                <p>
+                    La basura tirada sin control es más que un problema estético. Es un riesgo real para nuestra comunidad panameña que amenaza nuestra salud y nuestro entorno natural.<br>
+                    Los residuos orgánicos se convierten en nido de bacterias que pueden afectar a niños y adultos.<br>
+                    Los desechos tóxicos no solo contaminan, también dañan. Pueden provocar problemas respiratorios y afecciones en la piel que nadie quiere sufrir.
+                </p>
+                <img src="basura2.webp" alt="Evidencia de basura tirada incorrectamente">
+            </div>
+
+            <div class="tarjeta-info">
+                <h3>Fuentes principales de contaminación</h3>
+                <ul>
+                    <li><strong>Actividades diarias:</strong> Restos de comida, plasticos de un solo uso y residuos de actividades recreativas</li><br>
+                    <li><strong>Escuelas:</strong> Envolturas de snacks, botellas de plástico, vasos desechables y residuos de papel.</li><br>
+                    <li><strong>Comercios, mercados y oficinas:</strong> Cartón, plásticos de embalaje, restos orgánicos y papel.</li><br>
+                    <li><strong>Espacios públicos y vías:</strong> Envolturas y envases consumidos al paso.</li><br>
+                </ul>
+            </div>
+
+            <div class="tarjeta-info">
+                <h3>Tipos de desechos más comunes</h3>
+                <ul>
+                    <li>Plástcos</li><br>
+                    <li>Papel</li><br>
+                    <li>Metales</li><br>
+                    <li>Residuos orgánicos</li>
+                </ul>
+            </div>
+
+            <div class="tarjeta-info" id="contaminacion-agua">
+                <h2>Contaminación del agua</h2>
+                <h3>¿Qué es?</h3>
+                <p>
+                    La Organización Mundial de la Salud (OMS) define el agua contaminada como aquella que sufre cambios en su composición hasta quedar inservible. Es decir, es agua tóxica que no se puede ni beber ni destinar a actividades esenciales como la agricultura, además de una fuente de insalubridad que provoca más de 500.000 muertes anuales a nivel global por diarrea y transmite enfermedades como el cólera, la disentería, la fiebre tifoidea y la poliomielitis.<br><br>
+                
+                    Según la causa, existen diferentes tipos de contaminación del agua: la contaminación química, producida por pesticidas, fertilizantes, y metales pesados que pueden causar enfermedades si se realiza su consumo; la contaminación biológica, causada por bacterias, virus y parásitos producto de desechos humanos y animales; la contaminación física, que se produce por la presencia de plásticos, sedimentos y residuos que dañan a los ecosistemas; la contaminación térmica, causada por el vertido de agua caliente de las fábricas a ríos y lagos, aniquilando a la fauna marina; y la contaminación por microplásticos, partículas de plástico presentes en el agua y cuyas consecuencias por su ingesta está en investigación.<br><br>
+            
+                    Los principales contaminantes del agua incluyen bacterias, virus, parásitos, fertilizantes, pesticidas, fármacos, nitratos, fosfatos, plásticos, desechos fecales y hasta sustancias radiactivas. Estos elementos no siempre tiñen el agua, haciendo que la contaminación hídrica resulte invisible en muchas ocasiones. Por esta razón, se suele recurrir al análisis químico de pequeñas muestras y organismos acuáticos para conocer el estado de la calidad del agua.
+                </p>
+                <h3>Contaminantes emergentes</h3>
+                <p>
+                    Si bien la presencia de plásticos en el océano ha sido un problema recurrente a lo largo de los años, hoy en día existen diferentes productos contaminantes que afectan a los ecosistemas marinos. Los microplásticos, tal y como se ha mencionado anteriormente, son el gran peligro presente en todos los mares. Sin embargo, productos como los residuos farmacéuticos también llegan a contaminar el medio acuático, sobre todo a través de aguas residuales urbanas e industriales, y los tratamientos convencionales no siempre los eliminan por completo. Algunos de los contaminantes persistentes son compuestos derivados de los productos narcóticos, como la cocaína, agroquímicos, como la atrazina, del cuidado personal, como los parabenos, y de la industria alimentaria, como por ejemplo la cafeína.
+                </p>
+                <h3>¿Por qué el problema de la contaminación del agua es tan importante?</h3>
+                <p>
+                    La contaminación del agua configura una de las problemáticas más urgentes a nivel mundial. Según un estudio realizado por la OMS y UNICEF en 2025, alrededor de 2100 millones de personas no tiene acceso a agua potable de forma segura, afectando a la salud, pero también a la economía. <br><br>
+
+                    En la mayoría de los países donde existen datos, mujeres y niñas asumen la responsabilidad principal de recolectar agua en lugares con gran estrés hídrico. En regiones como África subsahariana y Asia central, muchas dedican más de 30 minutos diarios a esta tarea, lo que limita oportunidades educativas y profesionales, incrementando la brecha socioeconómica y de género. Además, si el agua disponible está contaminada, la exposición a enfermedades como el cólera o la hepatitis A convierten a esta problemática como un peligro serio para la vida. Una posibilidad cada vez más presente, ya que según la ONU, el 80% de las aguas residuales se vierten sin tratar al medio ambiente, por lo que gran cantidad de agua que las personas en países en vías de desarrollo consumen, tiene presencia de residuos altamente tóxicos. <br><br>
+
+                    Por otro lado, en la alimentación, el impacto también es directo. La agricultura depende del agua limpia para regar cultivos, mantener la calidad del suelo y proteger la producción ganadera. Si el agua contiene contaminantes o no hay suficiente disponibilidad, bajan los rendimientos, aumentan las pérdidas y pueden verse afectados tanto los precios como la seguridad alimentaria.<br><br>
+
+                    En sectores como la energía, la contaminación también representa un gran problema económico. Las centrales eléctricas dependen de flujos masivos de agua limpia para sus sistemas de refrigeración. Cuando el agua disponible está contaminada con sedimentos o materia orgánica, se reduce drásticamente la eficiencia termodinámica de las plantas y dispara los costes de mantenimiento, afectando a los precios del servicio.<br><br> 
+
+                    El peligro de los costes también influye en las ciudades, ya que el tratamiento de agua potable y de aguas residuales exige grandes inversiones en infraestructuras, energía y mantenimiento. A medida que la contaminación aumenta, los ayuntamientos deben dedicar más recursos a asegurar el servicio, lo que se traduce en mayor gasto público, y menos recursos para otras prioridades. <br><br>
+
+                    Por ello, la contaminación del agua no afecta solo al medio ambiente, sino también la vida diaria, el funcionamiento de la economía y la estabilidad social para que todas las personas puedan tener las mismas oportunidades. 
+                </p>
+                <img src="basuraagua.webp" alt="Fotografía de basura en el agua">
+            </div>
+
+            <div class="tarjeta-info" id="contaminacion-aire">
+                <h2>Contaminación del aire</h2>
+                <h3>¿Qué es?</h3>
+                <p>
+                    La contaminación del aire es la presencia en el aire de gases, polvo o humo en cantidades que dañan la salud, el clima o la naturaleza. Puede venir de la acción humana, como el uso de autos y fábricas, o de causas naturales, como los volcanes. Además, ocurre tanto en la calle como dentro de las casas.
+                    Es uno de los tipos de contaminación con más efecto sobre la salud. Según la Organización Mundial de la Salud (OMS), en 2019 casi toda la población del mundo, 99%, vivía en lugares que no cumplían sus guías de calidad del aire.
+                </p>
+                <h3>Las causas se dividen en dos grupos:</h3>
+                <h4>Causas humanas</h4>
+                <ul>
+                    <li><strong>Transporte:</strong> sobre todo los autos, camiones y motos que usan gasolina o diésel.</li> <br>
+                    <li><strong>Plantas de luz:</strong> sobre todo las que queman carbón, gas o petróleo.</li> <br>
+                    <li><strong> Industria: </strong> por ejemplo, fábricas de cemento, acero, químicos y otras.</li> <br>   
+                    <li><strong>Quema de leña y carbón:</strong> en casa para cocinar o dar calor.</li> <br>
+                    <li><strong>Campo:</strong> quema de restos de cosecha y también uso de abonos.</li> <br>
+                    <li><strong>Basura:</strong> quema al aire libre y también gases de los tiraderos.</li>  
+                </ul>
+                <h4>Causas naturales </h4>
+                <ul>
+                    <li><strong>Volcanes, </strong>que lanzan ceniza y también gases.</li> <br>
+                    <li><strong>Incendios de bosques, </strong>aunque muchos empiezan por acción humana.</li> <br>
+                    <li><strong>Polvo, </strong>que el viento levanta en zonas secas.</li>
+                </ul>
+                <h3>¿Cuáles son las consecuencias de la contaminación del aire?</h3>
+                <h4>En la salud:</h4>
+                <p>
+                    La OMS estima que la contaminación del aire, de la calle y de las casas, se liga a 6.7 millones de muertes antes de tiempo al año. la contaminación del aire es uno de los mayores riesgos ambientales, causando 8,1 millones de muertes prematuras anuales en todo el mundo (principalmente por cardiopatías, accidentes cerebrovasculares, cáncer de pulmón y enfermedades respiratorias crónicas). Afecta a casi todos los órganos, agravando el asma, reduciendo la función pulmonar y aumentando las hospitalizaciones, con especial vulnerabilidad en niños, adultos mayores y personas con enfermedades preexistentes.
+                </p>
+                <h4>En el ambiente y el clima</h4>
+                <p>
+                    El aire sucio también daña la naturaleza. Por ejemplo, los contaminantes como el ozono y las partículas finas dañan la biodiversidad, reducen los rendimientos agrícolas (lo que amenaza la seguridad alimentaria) y provocan lluvia ácida y eutrofización que alteran ecosistemas acuáticos y terrestres. Además, sustancias como el carbono negro aceleran el calentamiento global y el derretimiento de hielos, mientras que el aire sucio degrada materiales y construcciones. 
+                </p>
+                <h4>En la economía:</h4>
+                <p>
+                    Además, el aire sucio cuesta dinero. Sube el gasto en salud y, además, baja los días de trabajo y de escuela. También daña cosechas y edificios.
+                </p>
+                <img src="basuraaire.webp" alt="Fotografía de basura en el aire">
+            </div>
+            
+            <div class="tarjeta-info" id="contaminacion-suelo">
+                <h2>Contaminación del suelo</h2>
+                <h3>¿Qué es?</h3>
+                <p>
+                    Este mal invisible aparece cuando la concentración de contaminantes en la superficie es tan alta que daña la biodiversidad del suelo y pone en riesgo nuestra salud a través, sobre todo, de la alimentación. Precisamente actividades como la ganadería y la agricultura intensivas suelen emplear fármacos, plaguicidas y fertilizantes que contaminan los campos, al igual que ocurre con los metales pesados y otras sustancias químicas de origen natural o antropogénico.<br><br>
+                
+                    La contaminación del suelo es una amenaza global especialmente grave en regiones como Europa, Eurasia, Asia y África del Norte, como revela la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). Este organismo internacional asegura también que la degradación intensa o moderada afecta ya a un tercio del suelo mundial, y su recuperación es tan lenta que se necesitarían 1.000 años para crear unos pocos centímetros de capa arable superficial.
+                </p>
+                <h3>Causas y tipos de contaminación del suelo</h3>
+                <p>
+                    Fenómenos como la erosión, la pérdida de carbono orgánico, la salinización, la compactación, la acidificación y la contaminación química son los principales responsables del deterioro actual del suelo. Además, la FAO diferencia entre estos dos tipos de contaminación edáfica:
+                </p>
+                <ul>
+                    <li><strong>Contaminación puntual: </strong>se debe a razones concretas, tiene lugar en <em>áreas reducidas</em> y sus causas son fáciles de identificar. Esta contaminación terrestre es habitual en las ciudades, los emplazamientos de antiguas fábricas, los alrededores de las carreteras, los vertederos ilegales y las depuradoras.</li><br>
+                    <li><strong>Contaminación difusa: </strong> abarca <em>territorios muy amplios</em> y sus causas son diversas o difíciles de identificar. Este suceso implica la dispersión de contaminantes a través de sistemas aire-suelo-agua y tiene un impacto importante sobre la salud humana y el medio ambiente.</li>
+                </ul>
+                <p>Entre las principales causas de origen humano de la contaminación del suelo, la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) destaca:</p>
+                <ul>
+                    <li><strong>La actividad industrial y minera, </strong>por la liberación de metales pesados y sustancias químicas peligrosas.</li><br>
+                    <li><strong>Las actividades militares, </strong>debido al uso y almacenamiento de materiales contaminantes.</li><br>
+                    <li><strong>La gestión inadecuada de residuos, </strong>que incluye tanto los desechos urbanos como la basura tecnológica o residuos electrónicos, cuyos componentes pueden filtrar sustancias tóxicas al terreno.</li><br>
+                    <li><strong>El vertido de aguas residuales </strong>sin tratamiento adecuado, que introduce contaminantes en el suelo.</li><br>
+                    <li><strong>La agricultura y la ganadería intensivas, </strong>especialmente por el uso excesivo de fertilizantes, pesticidas y purines.</li><br>
+                    <li><strong>La construcción de infraestructuras urbanas y de transporte, </strong>que puede provocar sellado, compactación y contaminación del terreno.</li>
+                </ul>
+                <p>
+                    En conjunto, estas actividades ejercen una presión creciente sobre los suelos y comprometen su capacidad para mantener la productividad, la biodiversidad y los servicios ecosistémicos esenciales.<br><br>
+
+                    En el hogar utilizamos distintos productos que, si se desechan de manera incorrecta, pueden contaminar el suelo y alterar su equilibrio natural. Entre los más problemáticos están las pilas y baterías, el aceite de cocina usado, los detergentes y limpiadores, los medicamentos caducados y los pesticidas o herbicidas de jardín, ya que contienen sustancias químicas que se filtran en la tierra y afectan a los microorganismos, a la microfauna y al crecimiento de las plantas. Además, algunos de estos residuos pueden llegar a las aguas subterráneas y causar daños más amplios en el entorno. Por ello, separar y gestionar bien estos productos es fundamental para proteger la fertilidad del suelo y cuidar el medio ambiente.  
+                </p>
+                <img src="basurasuelo.webp" alt="Fotografía de basura en el suelo">
+            </div>
+            <div class="tarjeta-info" id="daño-animales-ecosistemas">
+                <h2>¿Cuál es el daño que provoca a animales y ecosistemas?</h2>
+                <h3>Daño a animales</h3>
+                <p>
+                    Las partículas contaminantes pueden dañar los sistemas respiratorios de los seres humanos y los animales, reducir su capacidad reproductiva e incluso aumentar su riesgo de padecer cáncer. <br><br>
+
+                    Estudios han encontró que <strong>la exposición a la contaminación del aire puede reducir la esperanza de vida de las aves.</strong> <br><br>
+                    La contaminación de agua puede envenenar a los animales directamente y alterar los ecosistemas acuáticos destruyendo los hábitats de muchas especies.<br><br>
+
+                    La contaminación por plástico es una de las causas más importantes y frecuentemente registrada en mares y ríos.<br><br>
+                    Una de las consecuencias más perjudiciales y duraderas de la crisis de la contaminación por plásticos son los <strong>microplásticos</strong>. Estas pequeñísimas partículas que pueden medir hasta 5 milímetros de diámetro son <strong>ingeridos por la fauna marina provocando efectos tanto tóxicos como mecánicos</strong>, lo que da lugar a problemas como la reducción de la ingesta de alimentos, la asfixia, los cambios de comportamiento y la alteración genética.<br><br>
+                    Los efectos de la contaminación ambiental en los animales no se limitan a los problemas de salud inmediatos. A largo plazo, la contaminación puede llevar a la disminución de las poblaciones, la extinción de especies e incluso cambios en los ecosistemas enteros.<br>
+                    <img src="animales.webp" alt="Daño a animales">
+                
+                </p>
+                <h3>Daño a ecosistemas</h3> 
+                <p>
+                   La contaminación es un importante factor de cambio en todos los ecosistemas, con efectos especialmente devastadores en los hábitats marinos y de agua dulce. Muchos tipos de contaminación -aire, agua y suelo, entre otros- van en aumento, con repercusiones negativas para la naturaleza. Las emisiones de gases de efecto invernadero, los fertilizantes agrícolas, los residuos plásticos, los derrames de petróleo y muchas otras fuentes de contaminación han tenido fuertes efectos negativos en el suelo, el agua dulce, los océanos y la atmósfera de los que dependen la vida salvaje y las personas. Los contaminantes, el exceso de luz y el ruido amenazan directa o indirectamente a muchas especies, así como la salud y el bienestar humanos.<br><br>
+                   En el aire, por ejemplo, los contaminantes atmosféricos afectan la respiración de animales y plantas. El ozono troposférico, el dióxido de azufre y las partículas finas dañan tejidos, reducen la fotosíntesis y debilitan la salud de los ecosistemas. No es solo un asunto urbano; también llega a zonas rurales y boscosas. <br><br>
+                   En el agua, la contaminación por fertilizantes, metales pesados, plásticos o aguas residuales reduce el oxígeno disponible, intoxica especies y favorece procesos como la eutrofización. El resultado puede ser devastador: peces que mueren, anfibios que desaparecen y ríos que pierden su capacidad de sostener vida diversa.<br><br>
+                   En el suelo, los residuos industriales, pesticidas y vertidos alteran los microorganismos que descomponen materia orgánica y reciclan nutrientes. Cuando el suelo pierde esa función, la vegetación se debilita, la erosión avanza y la productividad ecológica cae. Un suelo contaminado no solo es menos fértil; también es menos vivo. <br><br>
+                   Y cuando un ecosistema pierde una pieza importante, el efecto dominó se extiende. Por eso el impacto de la contaminación en el equilibrio ecológico no se limita a un punto concreto. Se mueve por toda la red natural y afecta desde insectos hasta depredadores superiores. <br><br>
+                   La contaminación reduce esa diversidad porque elimina especies sensibles y favorece a las más resistentes, que no siempre cumplen el mismo papel ecológico. Así se empobrece el sistema. Y un sistema empobrecido es más frágil, más impredecible y más vulnerable a nuevas presiones. <br><br>
+                   Este punto importa mucho: cuando desaparecen especies clave, el ecosistema deja de funcionar igual. No se trata solo de contar animales o plantas, sino de entender qué función cumplían y qué ocurre cuando ya no están.
+                   <img src="ecosistemas1.webp " alt="daño a ecosistemas">
+
+                
+
+                </p>
+            </div>
+
+            <footer class="pie-pagina">
+                <h4>Referencias (APA)</h4>
+                <p>Voltranc. (s. f.). <em>Consecuencias de no botar la basura en su lugar</em>. https://voltranc.com/consecuencias-no-botar-basura-lugar/</p>
+                <p>Iberdrola. (s. f.). <em>Contaminación del agua</em>. https://www.iberdrola.com/sostenibilidad/contaminacion-del-agua</p>
+                <p>Responsabilidad Social. (s. f.). <em>Contaminación del aire: Qué es, causas, consecuencias, soluciones y ejemplos</em>. https://responsabilidadsocial.net/contaminacion-del-aire-que-es-causas-consecuencias-soluciones-y-ejemplos/</p>
+                <p>Iberdrola. (s. f.). <em>Contaminación del suelo: Causas, efectos y soluciones</em>. https://www.iberdrola.com/sostenibilidad/contaminacion-del-suelo-causas-efectos-soluciones</p>
+                <p>VetMarket Portal. (s. f.). <em>Contaminación ambiental y su impacto en los animales</em>. https://vetmarketportal.com.ar/nota/4201/contaminacion-ambiental-y-su-impacto-en-los-animales/</p>
+            </footer>
+        </div>
+    </div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Transformando el entorno</title>
+    <meta charset="UTF-8">
+    <link rel = "Stylesheet" href = "estilos.css" type = "text/css">
+    
+</head>
+<body>
+    
+    <div class="contenedor">
+        
+        <div class="menu">
+            <h3>Índice</h3>
+            <ul>
+                <li><a href="index.html">Principal</a></li>
+                <br>
+                <li><a href="reciclaje.html">¿Qué es el reciclaje?</a></li>
+                <br>
+                <li><a href="tipos_residuos.html">Tipos de residuos</a></li>
+                <br>
+                <li><a href="3r.html">Las 3R</a></li>
+                <br>
+                <li><a href="problema_ambiental.html">Problema ambiental</a></li>
+                <br>
+                <li><a href="reciclaje_escuela.html">El reciclaje en nuestra escuela</a></li>
+                <br>
+                <li><a href="reciclaje_comunidad.html">El reciclaje en nuestra comunidad</a></li>
+                <br>
+                <li><a href="formulario.php">Compromiso</a></li>
+            </ul>
+        </div>
+
+
+
+        <div class="contenido">
+            <div class="cabecera">
+                <img src="logo.webp" alt="Logotipo Eco-Venados" class="logo-ecovenados">
+                <h1>PAEC: ECO-VENADOS TRANSFORMANDO EL ENTORNO</h1>
+            </div>
+
+            <div class="tarjeta-info">
+            
+            <h3>Integrantes:</h3>
+            <p>Domínguez González Ximena Rubí</p>
+            <p>Ceniceros Nevares José Manuel</p>
+            <img src="FOTO1.webp" alt="Imagen principal Eco-Venados">
+            
+            </div>
+
+            <div class = "tarjeta-info">
+            <h2>Introducción</h2>
+            <p>
+                En la actualidad, el manejo de la basura se ha convertido en uno de los mayores desafíos ambientales a nivel global y local. Cada día, nuestra escuela y comunidad generan toneladas de residuos que, al no ser gestionados correctamente, terminan contaminando el agua, el suelo y los ecosistemas. Este sitio web nace como una herramienta educativa y de concientización para el programa PAEC (Proyecto Aula Escuela Comunidad) por parte de nuestro plantel educativo CBTis 269 (Centro Bachillerato Tecnológico Industrial y de Servicios 269), con el propósito de invitarte a reflexionar sobre nuestros hábitos de consumo, conocer los tipos de residuos y descubrir cómo pequeñas acciones diarias, como aplicar las 3R, pueden transformar positivamente nuestro entorno. ¡Pequeños cambios generan grandes impactos!
+            </p>
+            </div>
+
+            <div class = "tarjeta-info">
+            <h2>Objetivo del sitio</h2>
+            <p>
+                Informar, concientizar y promover en la comunidad escolar la reducción y el manejo adecuado de los residuos sólidos, mediante acciones de limpieza, reciclaje y el compromiso individual, contribuyendo al cuidado del medio ambiente y al mejoramiento de nuestro entorno.
+            </p>                
+            </div>
+            
+            <div class = "tarjeta-info">
+                
+                    <p style = "font-size:25px">“No hay basura, solo recursos mal ubicados.”</p>
+                
+            </div>
+
+            <div class = "tarjeta-info">                
+                <p>Presione la siguiente imagen para conocer más del tema del reciclaje:</p>
+                <a href="https://concepto.de/reciclar/" target="_blank" rel="noopener noreferrer">
+            <img src="enlace.webp" alt="Imagen principal Eco-Venados">
+            </a>   
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carta compromiso</title>
+    <meta charset="UTF-8">
+    <link rel = "Stylesheet" href = "estilos.css" type = "text/css">
+</head>
+<body>
+    
+    <div class="contenedor">
+        <div class="menu">
+            <h3>Índice</h3>
+            <ul>
+                <li><a href="index.html">Principal</a></li>
+                <br>
+                <li><a href="reciclaje.html">¿Qué es el reciclaje?</a></li>
+                <br>
+                <li><a href="tipos_residuos.html">Tipos de residuos</a></li>
+                <br>
+                <li><a href="3r.html">Las 3R</a></li>
+                <br>
+                <li><a href="problema_ambiental.html">Problema ambiental</a></li>
+                <br>
+                <li><a href="reciclaje_escuela.html">El reciclaje en nuestra escuela</a></li>
+                <br>
+                <li><a href="reciclaje_comunidad.html">El reciclaje en nuestra comunidad</a></li>
+                <br>
+                <li><a href="formulario.php">Compromiso</a></li>
+            </ul>
+        </div>
+
+        <div class="contenido">
+     
+            <form action="resultado.php" method="post" style="margin:15px">
+
+                <div class="titulo">
+                    <h1>Mi compromiso con el reciclaje</h1>  
+                </div>
+
+                <div class="datos">
+                    <h2>Datos personales:</h2>
+                    <label> Nombre: </label>
+                    <input type="text" name="nombre"> <br> <br>
+                    <label> Edad: </label>
+                    <input type="number" name="edad"> <br> <br>
+                    <label> Grupo: </label>
+                    <input type="text" name="grupo"> <br> <br>
+                </div>
+
+                <div class="preguntas">
+                    <label> ¿Cuál es el residuo que más generas? </label><br><br>
+                    <input type="text" name="residuo_frecuente"> <br> <br>            
+                </div>
+
+                <div class="preguntas">
+                    <label> ¿Separas tus residuos? </label><br><br>
+                    <input type="radio" name="residuos" value="si"> Si <br><br>
+                    <input type="radio" name="residuos" value="no"> No <br><br>
+                    <input type="radio" name="residuos" value="algunas veces"> Algunas veces <br> <br>            
+                </div>
+
+                <div class="preguntas">
+                    <label> ¿Qué acción realizas para cuidar el ambiente? </label><br><br>
+                    <input type="text" name="accion_ambiente"> <br> <br>            
+                </div>
+
+                <div class="preguntas">
+                    <label> Seleccionar un compromiso: </label><br><br>
+                    <input type="radio" name="compromiso" value="reducir"> Reducir el uso del plastico <br><br>
+                    <input type="radio" name="compromiso" value="separar"> Separar residuos <br><br>
+                    <input type="radio" name="compromiso" value="reutilizar"> Reutilizar materiales <br><br>
+                    <input type="radio" name="compromiso" value="participar"> Participar en campañas <br><br>
+                    <input type="radio" name="compromiso" value="reciclar"> Reciclar aparatos electrónicos <br> <br>            
+                </div>
+
+
+                <div class="preguntas">
+                    <h1>Calculadora de impacto semanal </h1>
+                    <label> 🌱 ¿Cuántos envases o residuos evitas o separas a la semana con tu compromiso? </label><br><br>
+                    <input type="number" name="unidades_semana" min="0" max="500" value="5"> <br> <br>
+                </div>
+
+                <div class="preguntas">
+                    <label>Comentario: </label><br><br>
+                    <input type="text" name="comentario"> <br> <br>
+                    <input type="submit" value="Enviar">  
+                </div>
+                <div class="preguntas">
+                <p>¿Tienes dudas o quieres enviar un mensaje directo? 
+                <a href="mailto:ximenadol12@gmail.com">Escríbeme por correo</a>
+                </p>
+            </div>
+            </form>
+        </div>
+
+    </div>
+</body>
+</html>
+
+body {
+    background-color: #a19898;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor {
+    display: flex;
+}
+
+.menu {
+    width: 200px;
+    position: fixed;
+    height: 100vh;
+    border-right: 1px solid black;
+    padding: 10px;
+    background-color: #e8f5e9;
+    box-sizing: border-box;
+}
+
+.menu ul {
+    padding-left: 20px;
+}
+
+.menu li {
+    margin-bottom: 10px;
+}
+
+.contenido {
+    margin-left: 220px;
+    padding: 20px;
+    width: calc(100% - 220px);
+    box-sizing: border-box;
+}
+
+.contenido h3 {
+    color: rgb(14, 14, 117);
+    margin-top: 0;
+}
+
+.cabecera {
+    display: flex;
+    align-items: center;
+    background-color: #cfe2f3;
+    padding: 15px 25px;
+    border-radius: 8px;
+    gap: 35px;
+    margin-bottom: 25px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo-ecovenados {
+    width: 80px;
+    height: auto;
+    border-radius: 50%;
+}
+
+img {
+    max-width: 35%;
+    height: auto;
+    display: block;
+    margin: 15px 0;
+    border-radius: 8px;
+}
+
+.tarjeta-info {
+    background-color: #d4d0d0;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.titulo {
+    background-color: #cfe2f3;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.datos,
+.preguntas {
+    background-color: #fafbfa;
+    padding: 15px 20px;
+    margin-bottom: 18px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 750px;
+}
+
+.mensaje-exito {
+    background-color: #e8f5e9;
+    border-left: 5px solid #2e7d32;
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+.reto-resultado {
+    background-color: #e3f2fd;
+    padding: 15px;
+    border-left: 4px solid #0e0e75;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+input[type="submit"],
+.btn-volver {
+    display: inline-block;
+    background-color: #0e0e75;
+    color: #ffffff;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover,
+.btn-volver:hover {
+    background-color: #1b5e20;
+}
+
+.pie-pagina {
+    background-color: #f1f5f2;
+    padding: 15px 20px;
+    margin-top: 25px;
+    border-radius: 8px;
+    border-top: 4px solid #420c49;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.pie-pagina h4 {
+    color: rgb(178, 92, 204);
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+
+.pie-pagina p {
+    margin: 6px 0;
+    word-break: break-word;
+}
+
+.contenido ol,
+.contenido dl {
+    margin: 10px 0 15px 0;
+    padding-left: 24px;
+    line-height: 1.5;
+}
+
+.contenido ol li {
+    margin-bottom: 8px;
+}
+
+.contenido ul ul {
+    margin-top: 6px;
+    margin-bottom: 10px;
+    padding-left: 22px;
+    list-style-type: circle;
+}
+
+.contenido ul ul li {
+    margin-bottom: 5px;
+}
+
+.contenido dl {
+    padding-left: 0;
+}
+
+.contenido dt {
+    color: rgb(14, 14, 117);
+    margin-top: 10px;
+}
+
+.contenido dd {
+    margin-left: 20px;
+    margin-bottom: 8px;
+}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Las 3r</title>
+    <meta charset="UTF-8">
+    <link rel="Stylesheet" href="estilos.css" type="text/css">
+</head>
+<body>
+    
+    <div class="contenedor">
+        <div class="menu">
+            <h3>Índice</h3>
+            <ul>
+                <li><a href="index.html">Principal</a></li>
+                <br>
+                <li><a href="reciclaje.html">¿Qué es el reciclaje?</a></li>
+                <br>
+                <li><a href="tipos_residuos.html">Tipos de residuos</a></li>
+                <br>
+                <li><a href="3r.html">Las 3R</a></li>
+                <br>
+                <li><a href="problema_ambiental.html">Problema ambiental</a></li>
+                <br>
+                <li><a href="reciclaje_escuela.html">El reciclaje en nuestra escuela</a></li>
+                <br>
+                <li><a href="reciclaje_comunidad.html">El reciclaje en nuestra comunidad</a></li>
+                <br>
+                <li><a href="formulario.php">Compromiso</a></li>
+            </ul>
+        </div>
+
+        <div class="contenido">
+            <div class="titulo">
+                <h1>Las 3R: Reducir, Reutilizar y Reciclar</h1>        
+            </div>
+
+            <div class="tarjeta-info" id="que-es-3r">
+                <h3>¿Qué es?</h3>
+                <p>
+                    La regla de las 3R es un principio ambiental que busca disminuir los residuos mediante tres acciones: reducir, reutilizar y reciclar. Primero se evita generar desechos; después se prolonga la vida útil de los objetos, y al final se transforman los materiales en nuevos productos. Su objetivo es ahorrar recursos, energía y dinero.<br><br>
+                    También se conoce como regla de las tres erres o principio de las 3R. Aunque suele enunciarse como reducir, reciclar y reutilizar, el orden de importancia es otro: reducir va primero, reutilizar en segundo lugar y reciclar al final. Esa jerarquía es la clave de la regla, porque cada paso evita más impacto que el siguiente.
+                </p> 
+            </div>
+
+            <div class="tarjeta-info" id="orden-3r">
+                <h3>¿Cuál es el orden correcto de las 3R?</h3>  
+                <ul>
+                    <li><strong><a href="#reducir">1. Reducir:</a> </strong>consumir menos y elegir productos con menos empaque.</li><br>
+                    <li><strong><a href="#reutilizar">2. Reutilizar:</a> </strong> dar un segundo uso a los objetos sin transformarlos.</li><br>
+                    <li><strong><a href="#reciclar-3r">3. Reciclar:</a> </strong>convertir los residuos en materia prima para fabricar productos nuevos.</li>
+                </ul>
+            </div>
+
+            <div class="tarjeta-info" id="reducir">
+                <h3>1. Reducir</h3>
+                <p>
+                    Reducir significa <strong>disminuir</strong> la cantidad de productos y materiales que se consumen, sobre todo los de un solo uso. Es la R más importante porque ataca el problema en su origen: si no se compra, no se desecha.
+                </p>
+                <p>
+                    Algunos <strong>ejemplos</strong> son comprar a granel, preferir envases grandes en lugar de varios pequeños y llevar bolsa propia al mercado. También cuenta imprimir solo lo indispensable, rechazar popotes y cubiertos desechables y planear las compras para no desperdiciar comida.   
+                </p>
+                <img src="reducir.jpg" alt="Acción de reducir residuos">
+            </div>
+
+            <div class="tarjeta-info" id="reutilizar">
+                <h3>2. Reutilizar</h3>
+                <p>
+                    Reutilizar consiste en <strong>volver a usar</strong> un objeto, con la misma función o con otra, sin someterlo a un proceso industrial. De esta manera se alarga su vida útil y se retrasa su llegada al bote de basura.
+                </p>
+                <p>
+                    Por <strong>ejemplo</strong>, un frasco de vidrio puede servir para guardar alimentos y una caja de cartón, para un nuevo envío. Asimismo, la ropa, los libros y los aparatos en buen estado pueden donarse, venderse o repararse. Las botellas retornables y los contenedores rellenables son otra forma de reutilización.   
+                </p>
+                <img src="reutilizar.webp" alt="Acción de reutilizar materiales">
+            </div>
+
+            <div class="tarjeta-info" id="reciclar-3r">
+                <h3>3. Reciclar</h3>
+                <p>
+                    Reciclar significa <strong>transformar</strong> los materiales desechados mediante procesos físicos o químicos para convertirlos nuevamente en materia prima y fabricar productos nuevos.
+                </p>
+                <p>
+                    Algunos <strong>ejemplos</strong> son separar botellas de plástico PET, latas de aluminio, cartón, papel limpio y envases de vidrio para llevarlos a centros de acopio o contenedores especializados. <a href="reciclaje.html#tipos-reciclaje">Consulta aquí los tipos de reciclaje.</a>
+                </p>
+                <img src="reciclarr.webp" alt="Acción de reciclar">
+            </div>
+
+            <div class="tarjeta-info" id="pasos-separar">
+                <h3>Pasos ordenados para separar residuos correctamente</h3>
+                <ol>
+                    <li>Identifica si el residuo es orgánico, reciclable o no reciclable.</li>
+                    <li>Vacía y enjuaga brevemente los envases de plástico, vidrio o lata.</li>
+                    <li>Aplasta las botellas PET y las cajas de cartón para reducir su volumen.</li>
+                    <li>Deposita cada material limpio en el contenedor o centro de acopio correspondiente.</li>
+                </ol>
+            </div>
+
+            <footer class="pie-pagina">
+                <h4>Referencias (APA)</h4>
+                <p>Comisión Nacional de Áreas Naturales Protegidas. (s. f.). <em>Las tres erres mágicas</em>. Gobierno de México. https://www.gob.mx/conanp/articulos/las-tres-erres-magicas?idiom=es</p>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carta compromiso</title>
+    <meta charset="UTF-8">
+    <link rel = "Stylesheet" href = "estilos.css" type = "text/css">
+</head>
+<body>
+    
+    <div class="contenedor">
+        <div class="menu">
+            <h3>Índice</h3>
+            <ul>
+                <li><a href="index.html">Principal</a></li>
+                <br>
+                <li><a href="reciclaje.html">¿Qué es el reciclaje?</a></li>
+                <br>
+                <li><a href="tipos_residuos.html">Tipos de residuos</a></li>
+                <br>
+                <li><a href="3r.html">Las 3R</a></li>
+                <br>
+                <li><a href="problema_ambiental.html">Problema ambiental</a></li>
+                <br>
+                <li><a href="reciclaje_escuela.html">El reciclaje en nuestra escuela</a></li>
+                <br>
+                <li><a href="reciclaje_comunidad.html">El reciclaje en nuestra comunidad</a></li>
+                <br>
+                <li><a href="formulario.php">Compromiso</a></li>
+            </ul>
+        </div>
+        <div class="contenido">
+            <div class="tarjeta-info">
+                <?php
+                $nombre = htmlspecialchars($_POST["nombre"] ?? "Compañero/a");
+                $grupo = htmlspecialchars($_POST["grupo"] ?? "");
+                $compromiso = htmlspecialchars($_POST["compromiso"] ?? "cuidar el ambiente");
+                $unidades_semana = intval($_POST["unidades_semana"] ?? 0);
+
+                $impacto_mes = $unidades_semana * 4;
+                $impacto_ano = $unidades_semana * 52;
+
+                if ($impacto_mes >= 40) {
+                    $nivel_eco = "Guardían Eco-Venado Nivel Oro 🏆";
+                } elseif ($impacto_mes >= 16) {
+                    $nivel_eco = "Impulsor Verde Nivel Plata 🥈";
+                } else {
+                    $nivel_eco = "Semilla del Cambio Nivel Bronce 🌱";
+                }
+
+                echo "<h3>¡Compromiso registrado con éxito, " . $nombre . "!</h3>";
+                echo "<p>Grupo: <strong>" . $grupo . "</strong> | Compromiso elegido: <strong>" . ucfirst($compromiso) . "</strong></p><br>";
+
+                $mensajes = [
+                    "¡Gran paso, $nombre! Cada envase que separas o evitas cuenta más de lo que imaginas. Al cumplir tu compromiso de '$compromiso', estás evitando que cientos de residuos terminen contaminando nuestra escuela y comunidad. ¡Sigue contagiando esa energía Eco-Venado!",
+                    "¡Excelente aporte, $nombre! El cambio ambiental empieza con decisiones reales como la tuya hoy. Gracias por sumarte a la transformación de nuestro entorno y demostrar que en la prepa sí sabemos cuidar el planeta.",
+                    "El reciclaje no es una moda, $nombre, es una responsabilidad con nuestro futuro. Gracias por comprometerte a '$compromiso'. Al darle una segunda vida a los materiales, ahorras agua, energía y mantienes limpios nuestros espacios escolares.",
+                    "¿Sabías que tus pequeñas acciones diarias inspirarán a más compañeros, $nombre? No necesitas hacerlo perfecto desde el primer día: basta con ser constante en '$compromiso'. ¡Gracias por ser parte activa de PAEC: Eco-Venados Transformando el Entorno!"
+                ];
+
+                $indice_aleatorio = array_rand($mensajes);
+                $mensaje_final = $mensajes[$indice_aleatorio];
+
+                echo "<p style='font-size: 17px;'>" . $mensaje_final . "</p><br>";
+
+                echo "<div style='background-color: #e3f2fd; padding: 12px; border-left: 4px solid #0e0e75; border-radius: 5px;'>";
+                echo "<strong>🌱 Resultado de tu impacto semanal:</strong><br><br>";
+                echo "Con <strong>$unidades_semana</strong> residuos gestionados o evitados por semana:<br>";
+                echo "• En 1 mes evitarás/separarás <strong>$impacto_mes</strong> residuos.<br>";
+                echo "• En 1 año lograrás un impacto de <strong>$impacto_ano</strong> residuos.<br>";
+                echo "• Insignia alcanzada: <strong>$nivel_eco</strong>";
+                echo "</div>";
+                ?>
+                <br><br>
+                <a href="formulario.php">Volver al formulario</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
